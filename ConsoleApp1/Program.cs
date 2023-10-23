@@ -6,7 +6,8 @@
         Console.WriteLine("siema elo");
         Console.WriteLine(Dodawanie());
         Console.WriteLine(Odejmowanie());
-        
+        Console.WriteLine(Mnozenie());
+
     }
     private static byte Dodawanie()
     {
